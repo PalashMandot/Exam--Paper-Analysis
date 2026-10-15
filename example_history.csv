@@ -1,0 +1,37 @@
+year,session,exam_order,question_text,marks,topic,question_group_id
+2020,Annual,202001,Explain entropy and information gain with an example.,5.0,Decision Trees,G01
+2020,Annual,202001,Construct an ID3 decision tree for a categorical dataset.,8.0,Decision Trees,G02
+2020,Annual,202001,Explain the working of K-nearest neighbors with an example.,5.0,KNN,G03
+2020,Annual,202001,Explain the steps of the K-means clustering algorithm.,5.0,Clustering,G05
+2020,Annual,202001,Explain simple linear regression and the least-squares objective.,5.0,Regression,G07
+2020,Annual,202001,"Define precision, recall and F1-score using a confusion matrix.",5.0,Model Evaluation,G08
+2021,Annual,202101,Explain entropy and information gain with an example.,5.0,Decision Trees,G01
+2021,Annual,202101,Explain the working of K-nearest neighbors with an example.,5.0,KNN,G03
+2021,Annual,202101,Classify the given test sample using KNN and Euclidean distance.,8.0,KNN,G04
+2021,Annual,202101,Explain the steps of the K-means clustering algorithm.,5.0,Clustering,G05
+2021,Annual,202101,"Define precision, recall and F1-score using a confusion matrix.",5.0,Model Evaluation,G08
+2021,Annual,202101,Explain how Random Forest combines decision trees.,5.0,Ensemble Learning,G09
+2022,Annual,202201,Explain entropy and information gain with an example.,5.0,Decision Trees,G01
+2022,Annual,202201,Construct an ID3 decision tree for a categorical dataset.,8.0,Decision Trees,G02
+2022,Annual,202201,Explain the working of K-nearest neighbors with an example.,5.0,KNN,G03
+2022,Annual,202201,Explain the steps of the K-means clustering algorithm.,5.0,Clustering,G05
+2022,Annual,202201,Compare supervised classification and unsupervised clustering.,5.0,Clustering,G06
+2022,Annual,202201,Explain the bias-variance tradeoff.,5.0,Model Evaluation,G10
+2023,Annual,202301,Explain entropy and information gain with an example.,5.0,Decision Trees,G01
+2023,Annual,202301,Classify the given test sample using KNN and Euclidean distance.,8.0,KNN,G04
+2023,Annual,202301,Explain the steps of the K-means clustering algorithm.,5.0,Clustering,G05
+2023,Annual,202301,"Define precision, recall and F1-score using a confusion matrix.",5.0,Model Evaluation,G08
+2023,Annual,202301,Explain how Random Forest combines decision trees.,5.0,Ensemble Learning,G09
+2023,Annual,202301,Explain overfitting and pruning in decision trees.,5.0,Decision Trees,G12
+2024,Annual,202401,Explain entropy and information gain with an example.,5.0,Decision Trees,G01
+2024,Annual,202401,Construct an ID3 decision tree for a categorical dataset.,8.0,Decision Trees,G02
+2024,Annual,202401,Explain the working of K-nearest neighbors with an example.,5.0,KNN,G03
+2024,Annual,202401,Explain the steps of the K-means clustering algorithm.,5.0,Clustering,G05
+2024,Annual,202401,Explain simple linear regression and the least-squares objective.,5.0,Regression,G07
+2024,Annual,202401,Explain the Find-S algorithm with a training example.,5.0,Concept Learning,G11
+2025,Annual,202501,Construct an ID3 decision tree for a categorical dataset.,8.0,Decision Trees,G02
+2025,Annual,202501,Explain the working of K-nearest neighbors with an example.,5.0,KNN,G03
+2025,Annual,202501,Explain the steps of the K-means clustering algorithm.,5.0,Clustering,G05
+2025,Annual,202501,"Define precision, recall and F1-score using a confusion matrix.",5.0,Model Evaluation,G08
+2025,Annual,202501,Explain how Random Forest combines decision trees.,5.0,Ensemble Learning,G09
+2025,Annual,202501,Explain overfitting and pruning in decision trees.,5.0,Decision Trees,G12
